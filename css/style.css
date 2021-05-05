@@ -1,7 +1,7 @@
 /* Imports font Roboto Regular 400 */
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-/* Adds the font family to everything */
+/* Adds the font family to the entire page */
 * {
     font-family: 'Roboto', sans-serif;
 }
