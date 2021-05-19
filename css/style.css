@@ -56,11 +56,14 @@ input[type=submit]:hover {
   padding: 20px;
 }
 
+footer {
+  font-size: small;
+}
+
 /* Style all font awesome icons */
 .fa {
-    padding: 20px;
+    padding: 10px;
     font-size: 30px;
-    width: 50px;
     text-align: center;
     text-decoration: none;
   }
@@ -73,13 +76,13 @@ input[type=submit]:hover {
   /* Set a specific color for each brand */
   
   /* Facebook */
-  .fa-facebook-square {
-    background: #3B5998;
+  .fa-facebook {
+    /* background: #3B5998; */
     color: white;
   }
   
   /* Twitter */
-  .fa-twitter-square {
-    background: #55ACEE;
+  .fa-twitter {
+    /* background: #55ACEE; */
     color: white;
   }
